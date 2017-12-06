@@ -7,7 +7,7 @@
 This implements training and testing of some models from [Abnormal Driving Detection Based on DNN](paper.pdf) by *Mingyuan Luo* and *Xi Liu*.
 
 ## Environment
-- Operating system: Ubuntu 16.04 LTS
+- Operating system: CentOS 7.2
 - Data would take up to 260GB disk memory
 - Memory cost would be around 40GB
 - Dependencies: 
