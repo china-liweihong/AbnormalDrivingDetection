@@ -23,7 +23,7 @@
   cd AbnormalDrivingDetection
   ```
 
-- 下载 [State Farm Distracted Driver Detection](https://www.kaggle.com/c/state-farm-distracted-driver-detection/data) 数据集并在 `dataset` 内解压文件（imgs.zip）（现在，这个文件夹内包含两个文件夹分别为 `train` 和 `test` ）
+- 下载 [State Farm Distracted Driver Detection](https://www.kaggle.com/c/state-farm-distracted-driver-detection/data) 数据集并在 `datasets` 内解压文件（imgs.zip）（现在，这个文件夹内包含两个文件夹分别为 `train` 和 `test` ）
 
 ## 训练
 训练脚本有多种参数选择，可以使用 `--help` 列出。

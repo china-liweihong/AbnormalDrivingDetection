@@ -23,7 +23,7 @@ If you already have Torch installed, update `nn`, `cunn`, and `cudnn`.
   cd AbnormalDrivingDetection
   ```
 
-- Download the [State Farm Distracted Driver Detection](https://www.kaggle.com/c/state-farm-distracted-driver-detection/data) dataset and extract the zip file (imgs.zip) in the folder `dataset` (now, this folder should contain two folder named 'train' and 'test' respectively)
+- Download the [State Farm Distracted Driver Detection](https://www.kaggle.com/c/state-farm-distracted-driver-detection/data) dataset and extract the zip file (imgs.zip) in the folder `datasets` (now, this folder should contain two folder named 'train' and 'test' respectively)
 
 ## Training
 The training scripts come with several options, which can be listed with the `--help` flag.
